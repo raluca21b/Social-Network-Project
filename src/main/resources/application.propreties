@@ -1,0 +1,3 @@
+jdbc.url = jdbc:postgresql://localhost:5432/Users
+jdbc.user = postgres
+jdbc.password = 2022_psswdDataBaseR_21
